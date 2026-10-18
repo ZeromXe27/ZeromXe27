@@ -1,4 +1,7 @@
-# HELLO MYSELF ZEROM
+<h1 align="center">
+  ⚡ 𝙃𝙀𝙇𝙇𝙊, 𝙄'𝙈 𝙕𝙀𝙍𝙊𝙈 ⚡
+</h1>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@zeromxe_27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:primezerom777@gmail.com) 
 
